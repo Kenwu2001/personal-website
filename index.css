@@ -37,6 +37,7 @@
     height: 380px;
     background-color: rgb(221, 200, 190);
     margin-top: 20px;
+    overflow: hidden;
 }
 
 .photo-big{
@@ -44,4 +45,5 @@
     height: 480px;
     background-color: rgb(158, 118, 99);
     margin-top: 20px;
+    overflow: hidden;
 }
